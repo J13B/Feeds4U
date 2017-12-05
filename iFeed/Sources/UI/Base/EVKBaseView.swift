@@ -68,4 +68,6 @@ class EVKBaseView: UIView {
         
         self.addSubview(self.tableView)
     }
+    
+    //SWIFT 5
 }
